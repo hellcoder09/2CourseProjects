@@ -18,3 +18,5 @@ def MDP(f, a, b, e, p):
 x = MDP(f, -1, 1, 1e-8, 1)
 print("Корень:",x)
 print("Значение функции:",f(x))
+print("Visit my github page with another lab.works: https://github.com/hellcoder09/2CourseProjects")
+print("©Sagdeev Emil")
