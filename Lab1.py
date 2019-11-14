@@ -42,3 +42,6 @@ pylab.show()
 x0s = [0.0, 0.1]
 for x0 in x0s:
     newtons_method(f, df, x0, 1e-6)
+print("Visit my github page with another lab.works: https://github.com/hellcoder09/2CourseProjects")
+print("©Sagdeev Emil")
+
