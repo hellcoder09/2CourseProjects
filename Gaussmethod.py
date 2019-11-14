@@ -70,3 +70,5 @@ def Gauss(A, B):
 print("Исходная система:")
 FancyPrint(myA, myB, None)
 Gauss(myA, myB)
+print("Visit my github page with another lab.works: https://github.com/hellcoder09/2CourseProjects")
+print("©Sagdeev Emil")
